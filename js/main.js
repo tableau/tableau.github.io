@@ -8,6 +8,7 @@ $(document).ready(function () {
 var lunrIndex = lunr(function () {
     this.field('title', {boost: 10});
     this.field('description');
+    this.field('language');
     this.ref('id');
 });
 
@@ -24,14 +25,16 @@ function getRepos() {
                 url: repos_json[repo].html_url,
                 description: repos_json[repo].description,
                 stars: repos_json[repo].stargazers_count,
-                forks: repos_json[repo].forks_count
+                forks: repos_json[repo].forks_count,
+                language: repos_json[repo].language
             });
 
             // Add repos to the index
             lunrIndex.add({
                 id: repos_json[repo].id,
                 title: repos_json[repo].name,
-                description: repos_json[repo].description
+                description: repos_json[repo].description,
+                language: repos_json[repo].language
             });
         }
 
@@ -65,8 +68,8 @@ function displayRepos(repos) {
                 '.repo-title@href': 'repo.url',
                 '.repo-description': 'repo.description',
                 '.repo-stars': 'repo.stars',
-                '.repo-forks': 'repo.forks'
-
+                '.repo-forks': 'repo.forks',
+                '.repo-language': 'repo.language'
             }
         }
     };
