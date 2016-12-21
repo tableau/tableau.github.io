@@ -1,0 +1,200 @@
+/* General CSS */
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+body {
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    color: #555;
+    line-height: 1.5;
+}
+
+.content {
+    margin: 0 auto;
+    max-width: 50em;
+}
+
+/* Override Bootstrap nav styles */
+.navbar-nav {
+    margin-top: 1px;
+}
+
+.navbar-nav>li>a {
+    color: #e8762c !important;
+}
+
+.navbar-nav>li>a:hover {
+    color: #787878 !important;
+}
+
+.navbar-default {
+    background-color: #fff;
+}
+
+.navbar-brand-logo {
+    margin-top: -3px;
+}
+
+.navbar-brand-text {
+    color: #787878;
+    float: left;
+    font-size: 16px;
+    padding: 14px 0px;
+    margin-left: -6px;
+}
+
+img.logo
+{
+    height: 28px;
+}
+
+.navbar {
+    margin-bottom: 0px;
+    border-radius: 0px;
+    border-right: 0px;
+    border-left: 0px;
+}
+
+/* Carousel styles */
+
+.carousel-container {
+    background-color: #787878;
+    background-image: url("../assets/header.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    text-align: center;
+}
+
+h1 {
+    color: #fff;
+    text-shadow: #000 0px 0px 3px;
+    font-size: 3em;
+    padding-top: 42px;
+}
+
+h2, h3, h4 {
+    color: #787878;
+}
+
+.btn-primary {
+    background-color: #787878;
+}
+
+.carousel-text {
+    color: #ddd;
+    text-shadow: #000 1px 0px 0px;
+    font-size: 1.5em;
+    padding-top: 24px;
+}
+
+/* Search styles */
+input {
+    max-width: 100%;
+}
+
+.search-container {
+    padding: 12px;
+}
+
+.custom-search {
+    height: 2em;
+    font-size: 1.5em;
+    border-radius: 0px;
+}
+
+.custom-search:focus {
+    border-color: #e8762c;
+    transition: none;
+    outline: none;
+    -moz-transition: none;
+    -webkit-transition: none;
+}
+
+.glyphicon-search {
+    padding-right: 18px;
+    padding-top: 18px;
+    font-size: 1.2em;
+}
+
+/* Repository list styles */
+
+.repo-list {
+	display: none;
+}
+.loading-repos {
+	display: none;
+	padding-top: 1em;
+	text-align: center;
+}
+
+.thumbnail-container {
+    padding: 1em;
+}
+
+.thumbnail {
+    height: 15em;
+}
+
+.repo-title-container {
+    border-left: 3px solid #457387;
+    margin: 1em;
+    padding-left: 0.5em;
+}
+
+.repo-description {
+    padding-top: 0.75em;
+}
+
+.caption-repo-stats {
+    padding-right: 0.5em;
+    color: #787878;
+}
+
+/* Override bootstrap default colors */
+a {
+    color: #e8762c;
+    text-decoration: none;
+}
+a:hover,
+a:focus {
+    color: #e8762c;
+    text-decoration: underline;
+}
+.btn-primary {
+    background-color: #e8762c;
+    border-color: #ccc;
+}
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus {
+    background-color: #d5641b;
+    border-color: #ccc;
+}
+.bg-primary {
+  color: #fff;
+  background-color: #e8762c;
+}
+a.bg-primary:hover,
+a.bg-primary:focus {
+  background-color: #e8762c;
+}
+
+.alert-info {
+    color: #555;
+    background-color: #e8f6fd;
+}
+
+.nav-nested {
+    padding-left: 1.5em;
+    list-style-type: none;
+}
+
+@media screen and (max-width: 699px) {
+    h1 {
+        font-size: 2.5em;
+    }
+    .carousel-text {
+        font-size: 1em;
+    }
+}
