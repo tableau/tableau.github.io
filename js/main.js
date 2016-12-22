@@ -13,7 +13,7 @@ var lunrIndex = lunr(function () {
 });
 
 function getRepos() {
-    $.getJSON("https://api.github.com/users/tableau/repos", function(repos_json) {
+    $.getJSON("js/github_repos.json", function(repos_json) {
         var repos = [];
 
 
