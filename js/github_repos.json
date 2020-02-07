@@ -156,7 +156,7 @@
     "id": 69400040,
     "name": "TabPy",
     "html_url": "https://github.com/tableau/TabPy",
-    "description": "Execute Python code on the fly and display results in Tableau visualizations:",
+    "description": "Execute Python code on the fly and display results in Tableau visualizations",
     "stargazers_count": 765,
     "language": "Python",
     "forks_count": 285
@@ -447,6 +447,107 @@
     "description": "Extend Tableau calculations to dynamically include popular data science programming languages and external tools and platforms.",
     "stargazers_count": 2,
     "language": "HTML",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 2
+  },
+  {
+    "id": 142509314,
+    "name": "extension-filter-bookmarks",
+    "html_url": "https://github.com/tableau/extension-filter-bookmarks",
+    "description": "Instantly revert your dashboards to predefined filter settings.",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "forks_count": 3
+  },
+  {
+    "id": 143330651,
+    "name": "tab-compare",
+    "html_url": "https://github.com/tableau/tab-compare",
+    "description": "TabCompare is a visual comparison tool to understand differences in dashboards across different versions of Tableau.",
+    "stargazers_count": 0,
+    "language": null,
+    "forks_count": 1
+  },
+  {
+    "id": 143932317,
+    "name": "redux-saga-observer",
+    "html_url": "https://github.com/tableau/redux-saga-observer",
+    "description": "a library that provides observer patterns to redux-sagas, allowing powerful abstractions",
+    "stargazers_count": 1,
+    "language": "TypeScript",
+    "forks_count": 3
+  },
+  {
+    "id": 146039638,
+    "name": "mobile-app-bootstrap-react-native",
+    "html_url": "https://github.com/tableau/mobile-app-bootstrap-react-native",
+    "description": "A React Native template for creating iOS apps that embed Tableau vizzes",
+    "stargazers_count": 2,
+    "language": "JavaScript",
+    "forks_count": 2
+  },
+  {
+    "id": 146358528,
+    "name": "tableau-ui",
+    "html_url": "https://github.com/tableau/tableau-ui",
+    "description": "React UI components that have the look-and-feel of Tableau.",
+    "stargazers_count": 24,
+    "language": "CSS",
+    "forks_count": 8
+  },
+  {
+    "id": 148382026,
+    "name": "extension-parameter-actions",
+    "html_url": "https://github.com/tableau/extension-parameter-actions",
+    "description": "A Tableau extension that allows you to update parameter values from worksheet selections.",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "forks_count": 3
+  },
+  {
+    "id": 153317374,
+    "name": "connector-plugin-sdk",
+    "html_url": "https://github.com/tableau/connector-plugin-sdk",
+    "description": "SDK for Developing Tableau Connectors",
+    "stargazers_count": 13,
+    "language": "Python",
+    "forks_count": 7
+  },
+  {
+    "id": 153359135,
+    "name": "webhooks-docs",
+    "html_url": "https://github.com/tableau/webhooks-docs",
+    "description": "Webhooks developer documentation and resources.",
+    "stargazers_count": 8,
+    "language": null,
+    "forks_count": 3
+  },
+  {
+    "id": 155603580,
+    "name": "tableau-docker-samples",
+    "html_url": "https://github.com/tableau/tableau-docker-samples",
+    "description": "Samples for Dockers for Tableau Server/Online clients",
+    "stargazers_count": 1,
+    "language": null,
+    "forks_count": 1
+  },
+  {
+    "id": 159413512,
+    "name": "gradle-test-timeout",
+    "html_url": "https://github.com/tableau/gradle-test-timeout",
+    "description": "Gradle plugin to turn hanging JUnit4 tests into TestTimedOutExceptions",
+    "stargazers_count": 0,
+    "language": "Kotlin",
+    "forks_count": 1
+  },
+  {
+    "id": 164955240,
+    "name": "ts-checked-fsm",
+    "html_url": "https://github.com/tableau/ts-checked-fsm",
+    "description": "TypeScript library providing compile-time checking for state machine transitions",
+    "stargazers_count": 0,
+    "language": null,
     "forks_count": 0
   }
 ]
