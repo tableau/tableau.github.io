@@ -31,13 +31,14 @@ function filterJson(reposJson) {
   JSON.parse(reposJson).forEach(function(repo) {
     let repoJsonSubset = {};
 
-    for (var field in repo) {
-      if (fieldsToKeep.indexOf(field) !== -1) {
-        repoJsonSubset[field] = repo[field];
+    if (repo["archived"] == false) {
+      for (var field in repo) {
+          if (fieldsToKeep.indexOf(field) !== -1) {
+          repoJsonSubset[field] = repo[field];
+        }
       }
+      repos.push(repoJsonSubset);
     }
-
-    repos.push(repoJsonSubset);
   });
 
   repos.sort(function (a, b) {

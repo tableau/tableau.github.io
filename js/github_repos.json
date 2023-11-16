@@ -4,97 +4,106 @@
     "name": "TabPy",
     "html_url": "https://github.com/tableau/TabPy",
     "description": "Execute Python code on the fly and display results in Tableau visualizations:",
-    "stargazers_count": 1352,
+    "stargazers_count": 1463,
     "language": "Python",
-    "forks_count": 524
+    "forks_count": 576
   },
   {
     "id": 44130110,
     "name": "webdataconnector",
     "html_url": "https://github.com/tableau/webdataconnector",
     "description": "Bring the data you care about into Tableau",
-    "stargazers_count": 623,
+    "stargazers_count": 651,
     "language": "HTML",
-    "forks_count": 570
+    "forks_count": 583
   },
   {
     "id": 62177327,
     "name": "server-client-python",
     "html_url": "https://github.com/tableau/server-client-python",
     "description": "A Python library for the Tableau Server REST API",
-    "stargazers_count": 526,
+    "stargazers_count": 595,
     "language": "Python",
-    "forks_count": 358
+    "forks_count": 438
   },
   {
     "id": 63379610,
     "name": "rest-api-samples",
     "html_url": "https://github.com/tableau/rest-api-samples",
     "description": "Samples for the Tableau REST API",
-    "stargazers_count": 307,
+    "stargazers_count": 347,
     "language": "Python",
-    "forks_count": 234
+    "forks_count": 259
   },
   {
     "id": 58406499,
     "name": "document-api-python",
     "html_url": "https://github.com/tableau/document-api-python",
     "description": "Create and modify Tableau workbook and datasource files",
-    "stargazers_count": 285,
+    "stargazers_count": 304,
     "language": "Python",
-    "forks_count": 155
-  },
-  {
-    "id": 50051962,
-    "name": "js-api-samples",
-    "html_url": "https://github.com/tableau/js-api-samples",
-    "description": "Sample code for the Tableau JavaScript API",
-    "stargazers_count": 257,
-    "language": "HTML",
-    "forks_count": 175
+    "forks_count": 212
   },
   {
     "id": 94232596,
     "name": "extensions-api",
     "html_url": "https://github.com/tableau/extensions-api",
     "description": "Extensions API sample code and developer docs.",
-    "stargazers_count": 253,
+    "stargazers_count": 258,
     "language": "JavaScript",
-    "forks_count": 235
+    "forks_count": 244
   },
   {
     "id": 44121856,
     "name": "VizAlerts",
     "html_url": "https://github.com/tableau/VizAlerts",
     "description": "Data-driven alerting for Tableau Server",
-    "stargazers_count": 192,
+    "stargazers_count": 200,
     "language": "Python",
-    "forks_count": 95
+    "forks_count": 97
   },
   {
     "id": 68328227,
     "name": "tableau-log-viewer",
     "html_url": "https://github.com/tableau/tableau-log-viewer",
     "description": "Tableau Log Viewer is a cross-platform tool for quickly glancing over Tableau log files",
-    "stargazers_count": 154,
+    "stargazers_count": 159,
     "language": "C++",
-    "forks_count": 42
+    "forks_count": 47
+  },
+  {
+    "id": 259777710,
+    "name": "hyper-api-samples",
+    "html_url": "https://github.com/tableau/hyper-api-samples",
+    "description": "Sample code to get started with the Hyper API.",
+    "stargazers_count": 121,
+    "language": "Python",
+    "forks_count": 71
   },
   {
     "id": 45431356,
     "name": "TabMigrate",
     "html_url": "https://github.com/tableau/TabMigrate",
     "description": "A lightweight tool for moving Tableau content between multiple Tableau Server environments",
-    "stargazers_count": 113,
+    "stargazers_count": 116,
     "language": "C#",
-    "forks_count": 60
+    "forks_count": 61
+  },
+  {
+    "id": 216885377,
+    "name": "community-tableau-server-insights",
+    "html_url": "https://github.com/tableau/community-tableau-server-insights",
+    "description": "Community-built data sources for answering questions about Tableau Server",
+    "stargazers_count": 114,
+    "language": "Python",
+    "forks_count": 49
   },
   {
     "id": 43568654,
     "name": "TabMon",
     "html_url": "https://github.com/tableau/TabMon",
     "description": "A Tableau Server performance monitoring service",
-    "stargazers_count": 103,
+    "stargazers_count": 108,
     "language": "C#",
     "forks_count": 50
   },
@@ -103,25 +112,16 @@
     "name": "Logshark",
     "html_url": "https://github.com/tableau/Logshark",
     "description": "A Tableau log file analysis utility",
-    "stargazers_count": 103,
+    "stargazers_count": 108,
     "language": "C#",
-    "forks_count": 45
-  },
-  {
-    "id": 259777710,
-    "name": "hyper-api-samples",
-    "html_url": "https://github.com/tableau/hyper-api-samples",
-    "description": "Sample code to get started with the Hyper API.",
-    "stargazers_count": 98,
-    "language": "Python",
-    "forks_count": 62
+    "forks_count": 49
   },
   {
     "id": 33335770,
     "name": "tabjolt",
     "html_url": "https://github.com/tableau/tabjolt",
     "description": "Load generator for Tableau Server",
-    "stargazers_count": 95,
+    "stargazers_count": 103,
     "language": null,
     "forks_count": 55
   },
@@ -130,52 +130,43 @@
     "name": "connector-plugin-sdk",
     "html_url": "https://github.com/tableau/connector-plugin-sdk",
     "description": "SDK for Developing Tableau Connector Plugins",
-    "stargazers_count": 92,
+    "stargazers_count": 98,
     "language": "Python",
-    "forks_count": 89
-  },
-  {
-    "id": 216885377,
-    "name": "community-tableau-server-insights",
-    "html_url": "https://github.com/tableau/community-tableau-server-insights",
-    "description": "Community-built data sources for answering questions about Tableau Server",
-    "stargazers_count": 91,
-    "language": "Python",
-    "forks_count": 45
+    "forks_count": 104
   },
   {
     "id": 146358528,
     "name": "tableau-ui",
     "html_url": "https://github.com/tableau/tableau-ui",
     "description": "React UI components that have the look-and-feel of Tableau.",
-    "stargazers_count": 83,
+    "stargazers_count": 91,
     "language": "CSS",
-    "forks_count": 27
+    "forks_count": 28
   },
   {
     "id": 164955240,
     "name": "ts-checked-fsm",
     "html_url": "https://github.com/tableau/ts-checked-fsm",
     "description": "TypeScript library providing compile-time checking for state machine transitions",
-    "stargazers_count": 82,
+    "stargazers_count": 91,
     "language": "TypeScript",
-    "forks_count": 11
+    "forks_count": 14
   },
   {
     "id": 65933536,
     "name": "server-install-script-samples",
     "html_url": "https://github.com/tableau/server-install-script-samples",
     "description": "Sample code showing how to script Tableau Server installations",
-    "stargazers_count": 77,
+    "stargazers_count": 81,
     "language": "Python",
-    "forks_count": 144
+    "forks_count": 148
   },
   {
     "id": 71926459,
     "name": "query-graphs",
     "html_url": "https://github.com/tableau/query-graphs",
     "description": "A visualizer for queries - Hyper, Postgres, Tableau",
-    "stargazers_count": 61,
+    "stargazers_count": 75,
     "language": "TypeScript",
     "forks_count": 23
   },
@@ -184,90 +175,99 @@
     "name": "altimeter",
     "html_url": "https://github.com/tableau/altimeter",
     "description": "Graph AWS resources in Neptune",
-    "stargazers_count": 60,
+    "stargazers_count": 72,
     "language": "Python",
-    "forks_count": 21
+    "forks_count": 25
   },
   {
     "id": 232216102,
     "name": "tableau-viz-lwc",
     "html_url": "https://github.com/tableau/tableau-viz-lwc",
     "description": "Lightning Web Component for embedding Tableau into Salesforce",
-    "stargazers_count": 54,
+    "stargazers_count": 63,
     "language": "JavaScript",
-    "forks_count": 38
-  },
-  {
-    "id": 87847692,
-    "name": "embedding-playbook",
-    "html_url": "https://github.com/tableau/embedding-playbook",
-    "description": "You want to embed your Tableau content in lots of places. Start here.",
-    "stargazers_count": 52,
-    "language": "CSS",
-    "forks_count": 22
+    "forks_count": 47
   },
   {
     "id": 202216870,
     "name": "metadata-api-samples",
     "html_url": "https://github.com/tableau/metadata-api-samples",
     "description": "This repo holds samples using the Tableau Metadata API with Tableau Server or Tableau Online. ",
-    "stargazers_count": 42,
+    "stargazers_count": 58,
     "language": null,
-    "forks_count": 21
+    "forks_count": 24
   },
   {
-    "id": 67169427,
-    "name": "custom-portal-sample",
-    "html_url": "https://github.com/tableau/custom-portal-sample",
-    "description": "Sample code showing how to integrate and embed Tableau in a web portal",
-    "stargazers_count": 38,
-    "language": "HTML",
-    "forks_count": 32
-  },
-  {
-    "id": 153359135,
-    "name": "webhooks-docs",
-    "html_url": "https://github.com/tableau/webhooks-docs",
-    "description": "Webhooks developer documentation and resources.",
-    "stargazers_count": 38,
-    "language": null,
-    "forks_count": 23
-  },
-  {
-    "id": 206420272,
-    "name": "tableau-data-dictionary",
-    "html_url": "https://github.com/tableau/tableau-data-dictionary",
-    "description": "This data dictionary provides information about the tables and views in the \"workgroup\" PostgreSQL database of the Tableau Server repository.",
-    "stargazers_count": 30,
-    "language": "HTML",
-    "forks_count": 25
+    "id": 87847692,
+    "name": "embedding-playbook",
+    "html_url": "https://github.com/tableau/embedding-playbook",
+    "description": "You want to embed your Tableau content in lots of places. Start here.",
+    "stargazers_count": 55,
+    "language": "CSS",
+    "forks_count": 26
   },
   {
     "id": 274250417,
     "name": "tabcmd",
     "html_url": "https://github.com/tableau/tabcmd",
     "description": "A Python based app that replicates the functionality of the existing TabCMD command line utility",
-    "stargazers_count": 30,
+    "stargazers_count": 39,
     "language": "Python",
-    "forks_count": 10
+    "forks_count": 12
+  },
+  {
+    "id": 206420272,
+    "name": "tableau-data-dictionary",
+    "html_url": "https://github.com/tableau/tableau-data-dictionary",
+    "description": "This data dictionary provides information about the tables and views in the \"workgroup\" PostgreSQL database of the Tableau Server repository.",
+    "stargazers_count": 36,
+    "language": "HTML",
+    "forks_count": 27
   },
   {
     "id": 340534977,
     "name": "tableau-server-in-kubernetes",
     "html_url": "https://github.com/tableau/tableau-server-in-kubernetes",
     "description": "Examples and documentation on how to run Tableau Server in a Container within a Kubernetes environment.",
-    "stargazers_count": 29,
+    "stargazers_count": 34,
     "language": null,
-    "forks_count": 14
+    "forks_count": 17
+  },
+  {
+    "id": 185278619,
+    "name": "react-native-dns-lookup",
+    "html_url": "https://github.com/tableau/react-native-dns-lookup",
+    "description": "A React Native module that leverages iOS and Android native networking libraries to lookup all of the IP addresses associated with a hostname",
+    "stargazers_count": 26,
+    "language": "Objective-C",
+    "forks_count": 9
   },
   {
     "id": 366523339,
     "name": "embedding-api-v3-guide",
     "html_url": "https://github.com/tableau/embedding-api-v3-guide",
     "description": "migration guide for moving to embedding api v3",
-    "stargazers_count": 24,
+    "stargazers_count": 25,
     "language": null,
-    "forks_count": 7
+    "forks_count": 9
+  },
+  {
+    "id": 538637478,
+    "name": "embedding-api-v3-samples",
+    "html_url": "https://github.com/tableau/embedding-api-v3-samples",
+    "description": "Samples for the Tableau Embedding API V3.",
+    "stargazers_count": 22,
+    "language": "HTML",
+    "forks_count": 9
+  },
+  {
+    "id": 146039638,
+    "name": "mobile-app-bootstrap-react-native",
+    "html_url": "https://github.com/tableau/mobile-app-bootstrap-react-native",
+    "description": "A React Native template for creating iOS and Android apps that embed Tableau vizzes",
+    "stargazers_count": 21,
+    "language": "JavaScript",
+    "forks_count": 25
   },
   {
     "id": 155603580,
@@ -279,42 +279,6 @@
     "forks_count": 8
   },
   {
-    "id": 185278619,
-    "name": "react-native-dns-lookup",
-    "html_url": "https://github.com/tableau/react-native-dns-lookup",
-    "description": "A React Native module that leverages iOS and Android native networking libraries to lookup all of the IP addresses associated with a hostname",
-    "stargazers_count": 21,
-    "language": "Objective-C",
-    "forks_count": 9
-  },
-  {
-    "id": 68847889,
-    "name": "mobile-app-bootstrap-cordova",
-    "html_url": "https://github.com/tableau/mobile-app-bootstrap-cordova",
-    "description": "A Cordova template for creating iOS apps that embed Tableau vizzes",
-    "stargazers_count": 20,
-    "language": "JavaScript",
-    "forks_count": 19
-  },
-  {
-    "id": 142489303,
-    "name": "extension-data-driven-parameters",
-    "html_url": "https://github.com/tableau/extension-data-driven-parameters",
-    "description": "Automatically update your parameters based on your data!",
-    "stargazers_count": 19,
-    "language": "JavaScript",
-    "forks_count": 18
-  },
-  {
-    "id": 146039638,
-    "name": "mobile-app-bootstrap-react-native",
-    "html_url": "https://github.com/tableau/mobile-app-bootstrap-react-native",
-    "description": "A React Native template for creating iOS and Android apps that embed Tableau vizzes",
-    "stargazers_count": 19,
-    "language": "JavaScript",
-    "forks_count": 24
-  },
-  {
     "id": 251735558,
     "name": "npm-pack-here",
     "html_url": "https://github.com/tableau/npm-pack-here",
@@ -324,13 +288,13 @@
     "forks_count": 4
   },
   {
-    "id": 72894378,
-    "name": "redshift-monitor",
-    "html_url": "https://github.com/tableau/redshift-monitor",
-    "description": "Capture, save, and analyze AWS Redshift performance metrics",
-    "stargazers_count": 17,
+    "id": 142489303,
+    "name": "extension-data-driven-parameters",
+    "html_url": "https://github.com/tableau/extension-data-driven-parameters",
+    "description": "Automatically update your parameters based on your data!",
+    "stargazers_count": 18,
     "language": "JavaScript",
-    "forks_count": 13
+    "forks_count": 18
   },
   {
     "id": 171925246,
@@ -339,7 +303,7 @@
     "description": "Resources and materials for Tableau #DataDev hackathons.",
     "stargazers_count": 17,
     "language": null,
-    "forks_count": 11
+    "forks_count": 12
   },
   {
     "id": 237073877,
@@ -351,22 +315,13 @@
     "forks_count": 5
   },
   {
-    "id": 83480172,
-    "name": "teenypath",
-    "html_url": "https://github.com/tableau/teenypath",
-    "description": "A filesystem wrapper",
-    "stargazers_count": 14,
-    "language": "C++",
-    "forks_count": 6
-  },
-  {
-    "id": 66893933,
-    "name": "tc16",
-    "html_url": "https://github.com/tableau/tc16",
-    "description": "Companion tool for attendees of Tableau Conference 2016",
-    "stargazers_count": 12,
-    "language": "CSS",
-    "forks_count": 6
+    "id": 227478360,
+    "name": "Visualization-Linting",
+    "html_url": "https://github.com/tableau/Visualization-Linting",
+    "description": "Code associated with a research project for experimenting with different ways of surfacing stylistic, analytic, or visual discrepancies in visualizations.",
+    "stargazers_count": 13,
+    "language": "JavaScript",
+    "forks_count": 5
   },
   {
     "id": 72035260,
@@ -375,32 +330,32 @@
     "description": "An Objective-C template for creating iOS apps that embed Tableau vizzes",
     "stargazers_count": 12,
     "language": "Objective-C",
-    "forks_count": 7
-  },
-  {
-    "id": 227478360,
-    "name": "Visualization-Linting",
-    "html_url": "https://github.com/tableau/Visualization-Linting",
-    "description": "Code associated with a research project for experimenting with different ways of surfacing stylistic, analytic, or visual discrepancies in visualizations.",
-    "stargazers_count": 12,
-    "language": "JavaScript",
-    "forks_count": 5
+    "forks_count": 9
   },
   {
     "id": 246634708,
     "name": "octopus-python-client",
     "html_url": "https://github.com/tableau/octopus-python-client",
     "description": "Python script and a GUI to manage Octopus deploy servers through the Octopus Restful APIs",
-    "stargazers_count": 11,
+    "stargazers_count": 12,
     "language": "Python",
-    "forks_count": 4
+    "forks_count": 7
+  },
+  {
+    "id": 604635748,
+    "name": "hyper-db",
+    "html_url": "https://github.com/tableau/hyper-db",
+    "description": "Documentation for Hyper, the blazingly fast SQL engine powering analytics at Tableau and Salesforce",
+    "stargazers_count": 12,
+    "language": "TypeScript",
+    "forks_count": 7
   },
   {
     "id": 143330651,
     "name": "tab-compare",
     "html_url": "https://github.com/tableau/tab-compare",
     "description": "TabCompare is a visual comparison tool to understand differences in dashboards across different versions of Tableau.",
-    "stargazers_count": 10,
+    "stargazers_count": 11,
     "language": "Python",
     "forks_count": 7
   },
@@ -408,28 +363,28 @@
     "id": 288580152,
     "name": "TabProvision",
     "html_url": "https://github.com/tableau/TabProvision",
-    "description": "Many Tableau Online customers need to utilize their organization's Azure AD directory to manage their Tableau Online deployment. This sample shows how to use Azure AD Groups (or groups defined explicitly in a local file) to provision Administrators/Creators/Explorers/Viewers in their Tableau Online site. The sample code can also be adapted to read Group membership information from any other source and to use that information to provision the users/roles/groups in a Tableau Online (or Tableau Server) site.",
-    "stargazers_count": 10,
+    "description": "TabProvision is a flexible tool for automating user/role/groups provisioning in Tableau Cloud",
+    "stargazers_count": 11,
     "language": "C#",
     "forks_count": 4
+  },
+  {
+    "id": 411330056,
+    "name": "tableau-postman",
+    "html_url": "https://github.com/tableau/tableau-postman",
+    "description": "This repo is for the Tableau REST API Postman collection hosted in the Salesforce Developers Postman workspace. Use the collection to call your Tableau Server or Tableau Cloud site for demonstrations, learning, development & testing of any method in the API. ",
+    "stargazers_count": 10,
+    "language": null,
+    "forks_count": 12
   },
   {
     "id": 49598553,
     "name": "tableau.github.io",
     "html_url": "https://github.com/tableau/tableau.github.io",
     "description": "Contains the content for Tableau's OSS contribution guidelines",
-    "stargazers_count": 8,
+    "stargazers_count": 9,
     "language": "HTML",
-    "forks_count": 11
-  },
-  {
-    "id": 70533696,
-    "name": "mobile-connected-client",
-    "html_url": "https://github.com/tableau/mobile-connected-client",
-    "description": "Keep mobile users signed in with long-lived tokens. Works alone or in conjunction with the Mobile App Bootstrap",
-    "stargazers_count": 8,
-    "language": "Objective-C",
-    "forks_count": 8
+    "forks_count": 13
   },
   {
     "id": 142509244,
@@ -445,9 +400,18 @@
     "name": "discover-pane-template",
     "html_url": "https://github.com/tableau/discover-pane-template",
     "description": "Template for customizing the Tableau Desktop Discover Pane",
-    "stargazers_count": 7,
+    "stargazers_count": 8,
     "language": "HTML",
-    "forks_count": 4
+    "forks_count": 5
+  },
+  {
+    "id": 142509314,
+    "name": "extension-filter-bookmarks",
+    "html_url": "https://github.com/tableau/extension-filter-bookmarks",
+    "description": "Instantly revert your dashboards to predefined filter settings.",
+    "stargazers_count": 6,
+    "language": "JavaScript",
+    "forks_count": 9
   },
   {
     "id": 148382026,
@@ -462,26 +426,8 @@
     "id": 227863204,
     "name": "extension-hierarchy-navigator-sandboxed",
     "html_url": "https://github.com/tableau/extension-hierarchy-navigator-sandboxed",
-    "description": null,
+    "description": "Visualize your flat/dimensional or recursive data in a Tree/Hierarchy Extension an a Tableau Dashboard",
     "stargazers_count": 6,
-    "language": "JavaScript",
-    "forks_count": 7
-  },
-  {
-    "id": 246641685,
-    "name": "tableau-data-acceleration-client",
-    "html_url": "https://github.com/tableau/tableau-data-acceleration-client",
-    "description": "A script to help administrators configure data acceleration for specific workbooks. ",
-    "stargazers_count": 6,
-    "language": "Python",
-    "forks_count": 6
-  },
-  {
-    "id": 142509314,
-    "name": "extension-filter-bookmarks",
-    "html_url": "https://github.com/tableau/extension-filter-bookmarks",
-    "description": "Instantly revert your dashboards to predefined filter settings.",
-    "stargazers_count": 5,
     "language": "JavaScript",
     "forks_count": 7
   },
@@ -495,55 +441,37 @@
     "forks_count": 5
   },
   {
-    "id": 538637478,
-    "name": "embedding-api-v3-samples",
-    "html_url": "https://github.com/tableau/embedding-api-v3-samples",
-    "description": null,
-    "stargazers_count": 5,
-    "language": "HTML",
-    "forks_count": 3
-  },
-  {
-    "id": 65768321,
-    "name": "wdclib",
-    "html_url": "https://github.com/tableau/wdclib",
-    "description": "Used to generate the WDC shim library",
-    "stargazers_count": 4,
-    "language": "JavaScript",
-    "forks_count": 12
-  },
-  {
-    "id": 159413512,
-    "name": "gradle-test-timeout",
-    "html_url": "https://github.com/tableau/gradle-test-timeout",
-    "description": "Gradle plugin to turn hanging JUnit4 tests into TestTimedOutExceptions",
-    "stargazers_count": 4,
-    "language": "Kotlin",
-    "forks_count": 6
-  },
-  {
     "id": 202619974,
     "name": "extension-jungle-book",
     "html_url": "https://github.com/tableau/extension-jungle-book",
     "description": "This extension allows you to create filters using shapes mapped on top of images.",
-    "stargazers_count": 4,
+    "stargazers_count": 5,
     "language": "TypeScript",
-    "forks_count": 3
+    "forks_count": 4
   },
   {
-    "id": 92523131,
-    "name": "connectivity-support",
-    "html_url": "https://github.com/tableau/connectivity-support",
-    "description": "Provides a set of tools which can be used to diagnose common infrastructure concerns in the connectivity layer.",
-    "stargazers_count": 3,
-    "language": "C++",
-    "forks_count": 7
+    "id": 538686268,
+    "name": "wdc3",
+    "html_url": "https://github.com/tableau/wdc3",
+    "description": "Web Data Connector (WDC), connecting to web application data from Tableau.",
+    "stargazers_count": 5,
+    "language": null,
+    "forks_count": 0
+  },
+  {
+    "id": 349202334,
+    "name": "vail",
+    "html_url": "https://github.com/tableau/vail",
+    "description": "VAIL (Visual Analytic Intent Language) is a language for modeling user intent, inferring missing or ambiguous intent, and figuring out how to effectively visualize intent",
+    "stargazers_count": 4,
+    "language": "TypeScript",
+    "forks_count": 1
   },
   {
     "id": 169797767,
     "name": "extension-single-checkbox-parameters",
     "html_url": "https://github.com/tableau/extension-single-checkbox-parameters",
-    "description": null,
+    "description": "Dashboard extension which enables adding a parameter to a Tableau dashboard which will display in the UI as a single checkbox.",
     "stargazers_count": 3,
     "language": "JavaScript",
     "forks_count": 4
@@ -558,6 +486,15 @@
     "forks_count": 3
   },
   {
+    "id": 682691487,
+    "name": "Tableau-TA",
+    "html_url": "https://github.com/tableau/Tableau-TA",
+    "description": null,
+    "stargazers_count": 3,
+    "language": null,
+    "forks_count": 1
+  },
+  {
     "id": 349193329,
     "name": "extension-quick-what-if",
     "html_url": "https://github.com/tableau/extension-quick-what-if",
@@ -567,12 +504,12 @@
     "forks_count": 3
   },
   {
-    "id": 538686268,
-    "name": "wdc3",
-    "html_url": "https://github.com/tableau/wdc3",
+    "id": 573214853,
+    "name": "bridge_k8s_poc",
+    "html_url": "https://github.com/tableau/bridge_k8s_poc",
     "description": null,
     "stargazers_count": 2,
-    "language": null,
+    "language": "Shell",
     "forks_count": 0
   },
   {
@@ -588,8 +525,8 @@
     "id": 553659147,
     "name": "container_image_builder",
     "html_url": "https://github.com/tableau/container_image_builder",
-    "description": null,
-    "stargazers_count": 0,
+    "description": "Use this tool to install database drivers and other artifacts needed in your Tableau containers.",
+    "stargazers_count": 1,
     "language": "Shell",
     "forks_count": 0
   },
@@ -598,26 +535,98 @@
     "name": "bridge_docker_build",
     "html_url": "https://github.com/tableau/bridge_docker_build",
     "description": null,
-    "stargazers_count": 0,
+    "stargazers_count": 1,
     "language": "Shell",
     "forks_count": 0
   },
   {
-    "id": 573214853,
-    "name": "bridge_k8s_poc",
-    "html_url": "https://github.com/tableau/bridge_k8s_poc",
+    "id": 598750337,
+    "name": "create-tableau-dashboard-extension",
+    "html_url": "https://github.com/tableau/create-tableau-dashboard-extension",
     "description": null,
-    "stargazers_count": 0,
-    "language": "Shell",
+    "stargazers_count": 1,
+    "language": "JavaScript",
+    "forks_count": 0
+  },
+  {
+    "id": 659393881,
+    "name": "connected-apps-jwt-samples",
+    "html_url": "https://github.com/tableau/connected-apps-jwt-samples",
+    "description": null,
+    "stargazers_count": 1,
+    "language": "Java",
     "forks_count": 0
   },
   {
     "id": 580935011,
-    "name": "bridge_flux_poc",
-    "html_url": "https://github.com/tableau/bridge_flux_poc",
+    "name": "bridge_pre",
+    "html_url": "https://github.com/tableau/bridge_pre",
     "description": null,
     "stargazers_count": 0,
     "language": null,
+    "forks_count": 0
+  },
+  {
+    "id": 617189186,
+    "name": "uaf-test-app",
+    "html_url": "https://github.com/tableau/uaf-test-app",
+    "description": "Tableau User Attribute Functions Test App",
+    "stargazers_count": 0,
+    "language": "JavaScript",
+    "forks_count": 0
+  },
+  {
+    "id": 621770097,
+    "name": "blog-resources",
+    "html_url": "https://github.com/tableau/blog-resources",
+    "description": "Used to share code snippets referenced in HOWTOs, blog posts and articles",
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 1
+  },
+  {
+    "id": 657242973,
+    "name": "dcpat",
+    "html_url": "https://github.com/tableau/dcpat",
+    "description": null,
+    "stargazers_count": 0,
+    "language": "Python",
+    "forks_count": 0
+  },
+  {
+    "id": 660142323,
+    "name": "tableau-google-workspace-integration",
+    "html_url": "https://github.com/tableau/tableau-google-workspace-integration",
+    "description": null,
+    "stargazers_count": 0,
+    "language": null,
+    "forks_count": 0
+  },
+  {
+    "id": 668315715,
+    "name": "Accelerators",
+    "html_url": "https://github.com/tableau/Accelerators",
+    "description": "This repository is used to share external prerequisites for dashboard accelerators that are published to exchange.tableau.com",
+    "stargazers_count": 0,
+    "language": null,
+    "forks_count": 0
+  },
+  {
+    "id": 689310253,
+    "name": "hyper-api-dotnet",
+    "html_url": "https://github.com/tableau/hyper-api-dotnet",
+    "description": null,
+    "stargazers_count": 0,
+    "language": "C#",
+    "forks_count": 1
+  },
+  {
+    "id": 700622690,
+    "name": "bridgectl",
+    "html_url": "https://github.com/tableau/bridgectl",
+    "description": "Utilities for Tableau Bridge on Linux in Containers",
+    "stargazers_count": 0,
+    "language": "Shell",
     "forks_count": 0
   }
 ]
