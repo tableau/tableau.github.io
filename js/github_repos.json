@@ -255,7 +255,7 @@
     "id": 538637478,
     "name": "embedding-api-v3-samples",
     "html_url": "https://github.com/tableau/embedding-api-v3-samples",
-    "description": null,
+    "description": "Samples for the Tableau Embedding API V3.",
     "stargazers_count": 22,
     "language": "HTML",
     "forks_count": 9
@@ -363,7 +363,7 @@
     "id": 288580152,
     "name": "TabProvision",
     "html_url": "https://github.com/tableau/TabProvision",
-    "description": "Many Tableau Online customers need to utilize their organization's Azure AD directory to manage their Tableau Online deployment. This sample shows how to use Azure AD Groups (or groups defined explicitly in a local file) to provision Administrators/Creators/Explorers/Viewers in their Tableau Online site. The sample code can also be adapted to read Group membership information from any other source and to use that information to provision the users/roles/groups in a Tableau Online (or Tableau Server) site.",
+    "description": "TabProvision is a flexible tool for automating user/role/groups provisioning in Tableau Cloud",
     "stargazers_count": 11,
     "language": "C#",
     "forks_count": 4
@@ -426,7 +426,7 @@
     "id": 227863204,
     "name": "extension-hierarchy-navigator-sandboxed",
     "html_url": "https://github.com/tableau/extension-hierarchy-navigator-sandboxed",
-    "description": null,
+    "description": "Visualize your flat/dimensional or recursive data in a Tree/Hierarchy Extension an a Tableau Dashboard",
     "stargazers_count": 6,
     "language": "JavaScript",
     "forks_count": 7
@@ -453,19 +453,10 @@
     "id": 538686268,
     "name": "wdc3",
     "html_url": "https://github.com/tableau/wdc3",
-    "description": null,
+    "description": "Web Data Connector (WDC), connecting to web application data from Tableau.",
     "stargazers_count": 5,
     "language": null,
     "forks_count": 0
-  },
-  {
-    "id": 65768321,
-    "name": "wdclib",
-    "html_url": "https://github.com/tableau/wdclib",
-    "description": "Used to generate the WDC shim library",
-    "stargazers_count": 4,
-    "language": "JavaScript",
-    "forks_count": 12
   },
   {
     "id": 349202334,
@@ -480,7 +471,7 @@
     "id": 169797767,
     "name": "extension-single-checkbox-parameters",
     "html_url": "https://github.com/tableau/extension-single-checkbox-parameters",
-    "description": null,
+    "description": "Dashboard extension which enables adding a parameter to a Tableau dashboard which will display in the UI as a single checkbox.",
     "stargazers_count": 3,
     "language": "JavaScript",
     "forks_count": 4
@@ -534,7 +525,7 @@
     "id": 553659147,
     "name": "container_image_builder",
     "html_url": "https://github.com/tableau/container_image_builder",
-    "description": null,
+    "description": "Use this tool to install database drivers and other artifacts needed in your Tableau containers.",
     "stargazers_count": 1,
     "language": "Shell",
     "forks_count": 0
