@@ -14,21 +14,8 @@ var lunrIndex = lunr(function () {
 
 function getRepos() {
     $.getJSON("js/github_repos.json", function(repos_json) {
-        var repos = [];
-
 
         for (var repo in repos_json) {
-            // Add repos to an array for sorting
-            repos.push({
-                id: repos_json[repo].id,
-                title: repos_json[repo].name,
-                url: repos_json[repo].html_url,
-                description: repos_json[repo].description,
-                stars: repos_json[repo].stargazers_count,
-                forks: repos_json[repo].forks_count,
-                language: repos_json[repo].language
-            });
-
             // Add repos to the index
             lunrIndex.add({
                 id: repos_json[repo].id,
@@ -38,19 +25,10 @@ function getRepos() {
             });
         }
 
-		sortRepos(repos);
+		displayRepos(repos_json);
         // Once the index is ready
         addKeyupListenerForSearch();
     });
-}
-
-// Sort by number of stars
-function sortRepos(repos) {
-	repos.sort(function (a, b) {
-        return b.stars - a.stars;
-    });
-
-	displayRepos(repos);
 }
 
 function addKeyupListenerForSearch() {
@@ -64,11 +42,11 @@ function displayRepos(repos) {
         '.thumbnail-container': {
             'repo<-': {
                 '.thumbnail@id': 'repo.id',
-                '.repo-title': 'repo.title',
-                '.repo-title@href': 'repo.url',
+                '.repo-title': 'repo.name',
+                '.repo-title@href': 'repo.html_url',
                 '.repo-description': 'repo.description',
-                '.repo-stars': 'repo.stars',
-                '.repo-forks': 'repo.forks',
+                '.repo-stars': 'repo.stargazers_count',
+                '.repo-forks': 'repo.forks_count',
                 '.repo-language': 'repo.language'
             }
         }
