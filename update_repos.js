@@ -37,7 +37,6 @@ function filterJson(reposJson) {
           repoJsonSubset[field] = repo[field];
         }
       }
-      console.log(repo["archived"]);
       repos.push(repoJsonSubset);
     }
   });
