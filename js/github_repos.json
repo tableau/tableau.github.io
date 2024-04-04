@@ -4,9 +4,9 @@
     "name": "TabPy",
     "html_url": "https://github.com/tableau/TabPy",
     "description": "Execute Python code on the fly and display results in Tableau visualizations:",
-    "stargazers_count": 1491,
+    "stargazers_count": 1492,
     "language": "Python",
-    "forks_count": 578
+    "forks_count": 576
   },
   {
     "id": 44130110,
@@ -22,16 +22,16 @@
     "name": "server-client-python",
     "html_url": "https://github.com/tableau/server-client-python",
     "description": "A Python library for the Tableau Server REST API",
-    "stargazers_count": 627,
+    "stargazers_count": 628,
     "language": "Python",
-    "forks_count": 412
+    "forks_count": 411
   },
   {
     "id": 63379610,
     "name": "rest-api-samples",
     "html_url": "https://github.com/tableau/rest-api-samples",
     "description": "Samples for the Tableau REST API",
-    "stargazers_count": 362,
+    "stargazers_count": 363,
     "language": "Python",
     "forks_count": 263
   },
@@ -42,16 +42,16 @@
     "description": "Create and modify Tableau workbook and datasource files",
     "stargazers_count": 314,
     "language": "Python",
-    "forks_count": 171
+    "forks_count": 172
   },
   {
     "id": 94232596,
     "name": "extensions-api",
     "html_url": "https://github.com/tableau/extensions-api",
     "description": "Extensions API sample code and developer docs.",
-    "stargazers_count": 261,
+    "stargazers_count": 262,
     "language": "JavaScript",
-    "forks_count": 242
+    "forks_count": 243
   },
   {
     "id": 44121856,
@@ -76,7 +76,7 @@
     "name": "hyper-api-samples",
     "html_url": "https://github.com/tableau/hyper-api-samples",
     "description": "Sample code to get started with the Hyper API.",
-    "stargazers_count": 124,
+    "stargazers_count": 125,
     "language": "Python",
     "forks_count": 71
   },
@@ -171,15 +171,6 @@
     "forks_count": 25
   },
   {
-    "id": 232216102,
-    "name": "tableau-viz-lwc",
-    "html_url": "https://github.com/tableau/tableau-viz-lwc",
-    "description": "(Archived) Lightning Web Component for embedding Tableau into Salesforce",
-    "stargazers_count": 65,
-    "language": null,
-    "forks_count": 48
-  },
-  {
     "id": 202216870,
     "name": "metadata-api-samples",
     "html_url": "https://github.com/tableau/metadata-api-samples",
@@ -204,7 +195,7 @@
     "description": "A Python based app that replicates the functionality of the existing TabCMD command line utility",
     "stargazers_count": 40,
     "language": "Python",
-    "forks_count": 11
+    "forks_count": 12
   },
   {
     "id": 340534977,
@@ -256,7 +247,7 @@
     "name": "mobile-app-bootstrap-react-native",
     "html_url": "https://github.com/tableau/mobile-app-bootstrap-react-native",
     "description": "A React Native template for creating iOS and Android apps that embed Tableau vizzes",
-    "stargazers_count": 21,
+    "stargazers_count": 22,
     "language": "JavaScript",
     "forks_count": 23
   },
