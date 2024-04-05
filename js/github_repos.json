@@ -6,7 +6,7 @@
     "description": "Execute Python code on the fly and display results in Tableau visualizations:",
     "stargazers_count": 1492,
     "language": "Python",
-    "forks_count": 576
+    "forks_count": 575
   },
   {
     "id": 44130110,
@@ -22,7 +22,7 @@
     "name": "server-client-python",
     "html_url": "https://github.com/tableau/server-client-python",
     "description": "A Python library for the Tableau Server REST API",
-    "stargazers_count": 628,
+    "stargazers_count": 627,
     "language": "Python",
     "forks_count": 411
   },
@@ -42,7 +42,7 @@
     "description": "Create and modify Tableau workbook and datasource files",
     "stargazers_count": 314,
     "language": "Python",
-    "forks_count": 172
+    "forks_count": 171
   },
   {
     "id": 94232596,
@@ -168,7 +168,7 @@
     "description": "Graph AWS resources in Neptune",
     "stargazers_count": 74,
     "language": "Python",
-    "forks_count": 25
+    "forks_count": 24
   },
   {
     "id": 202216870,
@@ -195,7 +195,7 @@
     "description": "A Python based app that replicates the functionality of the existing TabCMD command line utility",
     "stargazers_count": 40,
     "language": "Python",
-    "forks_count": 12
+    "forks_count": 11
   },
   {
     "id": 340534977,
@@ -220,7 +220,7 @@
     "name": "react-native-dns-lookup",
     "html_url": "https://github.com/tableau/react-native-dns-lookup",
     "description": "A React Native module that leverages iOS and Android native networking libraries to lookup all of the IP addresses associated with a hostname",
-    "stargazers_count": 28,
+    "stargazers_count": 29,
     "language": "Objective-C",
     "forks_count": 11
   },
@@ -363,7 +363,7 @@
     "id": 745152357,
     "name": "tableau-migration-sdk",
     "html_url": "https://github.com/tableau/tableau-migration-sdk",
-    "description": "The Tableau Migration SDK is a client library to facilitate migration of user data between Tableau environments.",
+    "description": "An SDK for building your own application to migrate to a new Tableau environment.",
     "stargazers_count": 9,
     "language": "C#",
     "forks_count": 3
