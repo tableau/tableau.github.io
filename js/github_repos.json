@@ -4,9 +4,9 @@
     "name": "TabPy",
     "html_url": "https://github.com/tableau/TabPy",
     "description": "Execute Python code on the fly and display results in Tableau visualizations:",
-    "stargazers_count": 1491,
+    "stargazers_count": 1492,
     "language": "Python",
-    "forks_count": 578
+    "forks_count": 575
   },
   {
     "id": 44130110,
@@ -24,14 +24,14 @@
     "description": "A Python library for the Tableau Server REST API",
     "stargazers_count": 627,
     "language": "Python",
-    "forks_count": 412
+    "forks_count": 411
   },
   {
     "id": 63379610,
     "name": "rest-api-samples",
     "html_url": "https://github.com/tableau/rest-api-samples",
     "description": "Samples for the Tableau REST API",
-    "stargazers_count": 362,
+    "stargazers_count": 363,
     "language": "Python",
     "forks_count": 263
   },
@@ -49,9 +49,9 @@
     "name": "extensions-api",
     "html_url": "https://github.com/tableau/extensions-api",
     "description": "Extensions API sample code and developer docs.",
-    "stargazers_count": 261,
+    "stargazers_count": 262,
     "language": "JavaScript",
-    "forks_count": 242
+    "forks_count": 243
   },
   {
     "id": 44121856,
@@ -76,7 +76,7 @@
     "name": "hyper-api-samples",
     "html_url": "https://github.com/tableau/hyper-api-samples",
     "description": "Sample code to get started with the Hyper API.",
-    "stargazers_count": 124,
+    "stargazers_count": 125,
     "language": "Python",
     "forks_count": 71
   },
@@ -168,16 +168,7 @@
     "description": "Graph AWS resources in Neptune",
     "stargazers_count": 74,
     "language": "Python",
-    "forks_count": 25
-  },
-  {
-    "id": 232216102,
-    "name": "tableau-viz-lwc",
-    "html_url": "https://github.com/tableau/tableau-viz-lwc",
-    "description": "(Archived) Lightning Web Component for embedding Tableau into Salesforce",
-    "stargazers_count": 65,
-    "language": null,
-    "forks_count": 48
+    "forks_count": 24
   },
   {
     "id": 202216870,
@@ -229,7 +220,7 @@
     "name": "react-native-dns-lookup",
     "html_url": "https://github.com/tableau/react-native-dns-lookup",
     "description": "A React Native module that leverages iOS and Android native networking libraries to lookup all of the IP addresses associated with a hostname",
-    "stargazers_count": 28,
+    "stargazers_count": 29,
     "language": "Objective-C",
     "forks_count": 11
   },
@@ -256,7 +247,7 @@
     "name": "mobile-app-bootstrap-react-native",
     "html_url": "https://github.com/tableau/mobile-app-bootstrap-react-native",
     "description": "A React Native template for creating iOS and Android apps that embed Tableau vizzes",
-    "stargazers_count": 21,
+    "stargazers_count": 22,
     "language": "JavaScript",
     "forks_count": 23
   },
@@ -372,7 +363,7 @@
     "id": 745152357,
     "name": "tableau-migration-sdk",
     "html_url": "https://github.com/tableau/tableau-migration-sdk",
-    "description": "The Tableau Migration SDK is a client library to facilitate migration of user data between Tableau environments.",
+    "description": "An SDK for building your own application to migrate to a new Tableau environment.",
     "stargazers_count": 9,
     "language": "C#",
     "forks_count": 3
