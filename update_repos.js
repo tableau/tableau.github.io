@@ -10,7 +10,7 @@ const https = require("https");
 const repoFile = "js/github_repos.json";
 const requestOpts = {
   hostname: "api.github.com",
-  path: "/orgs/tableau/repos?per_page=100",
+  path: "/orgs/tableau/repos?per_page=100&sort=full_name&type=public",
   headers: {
     "User-Agent": "request"
   }
