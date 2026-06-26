@@ -1,4 +1,6 @@
-This is the repository for [Tableau's OSS contributor page](https://tableau.github.io).
+# Tableau Open Source Directory
+
+This is the repository for [Tableau's OSS projects directory and contributor page](https://tableau.github.io).
 
 To update the repos list, run the `update_repos.js` script. The `js/github_repos.json` file will be updated.
 
